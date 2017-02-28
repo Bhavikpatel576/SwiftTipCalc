@@ -13,6 +13,10 @@ The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] Settings page to change the default tip percentage.
 
+The following **optional** features are implemented:
+
+* [ ] Created a setting for the user to adjust the background color based off three sliders that represent Red, Green, and Blue respectively
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
