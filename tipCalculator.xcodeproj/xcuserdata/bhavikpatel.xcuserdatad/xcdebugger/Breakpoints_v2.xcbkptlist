@@ -86,11 +86,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "tipCalculator/SettingsViewController.swift"
-            timestampString = "509492741.341679"
+            timestampString = "509942147.006473"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "didReceiveMemoryWarning()"
             landmarkType = "7">
          </BreakpointContent>
@@ -102,11 +102,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "tipCalculator/SettingsViewController.swift"
-            timestampString = "509492741.341679"
+            timestampString = "509943159.24471"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
             landmarkName = "SettingsViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -118,7 +118,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "tipCalculator/SettingsViewController.swift"
-            timestampString = "509492741.341679"
+            timestampString = "509755872.479159"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "13"
@@ -172,6 +172,22 @@
                   offsetFromSymbolStart = "70">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tipCalculator/SettingsViewController.swift"
+            timestampString = "509943159.24471"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "colorUpdate()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
