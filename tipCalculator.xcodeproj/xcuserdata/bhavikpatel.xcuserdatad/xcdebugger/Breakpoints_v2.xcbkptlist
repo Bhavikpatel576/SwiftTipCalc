@@ -91,8 +91,13 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "48"
             endingLineNumber = "48"
+<<<<<<< HEAD
             landmarkName = "didReceiveMemoryWarning()"
             landmarkType = "7">
+=======
+            landmarkName = "SettingsViewController"
+            landmarkType = "3">
+>>>>>>> b11b0f7ebb50b10e4a25054bebec4a6102f98372
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -106,9 +111,13 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "104"
+<<<<<<< HEAD
             endingLineNumber = "104"
             landmarkName = "SettingsViewController"
             landmarkType = "3">
+=======
+            endingLineNumber = "104">
+>>>>>>> b11b0f7ebb50b10e4a25054bebec4a6102f98372
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -185,9 +194,13 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "91"
+<<<<<<< HEAD
             endingLineNumber = "91"
             landmarkName = "colorUpdate()"
             landmarkType = "7">
+=======
+            endingLineNumber = "91">
+>>>>>>> b11b0f7ebb50b10e4a25054bebec4a6102f98372
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
